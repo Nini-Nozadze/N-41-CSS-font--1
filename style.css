@@ -1,0 +1,8 @@
+@font-face {
+    font-family: font1;
+    src: url(fonts/OldStandardTT-Italic.ttf);
+}
+
+p {
+    font-family: font1;
+}
